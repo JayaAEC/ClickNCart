@@ -1,0 +1,20 @@
+.shop{
+    width: 100%;
+    min-height: 100vh;
+}
+.heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+    gap: 1rem;
+}
+.heading span{
+    font-size: 3rem;
+    font-weight: bolder;
+    text-shadow: 2px 3px 4px black;
+}
+.heading svg{
+    font-size: 5rem;
+    
+}
