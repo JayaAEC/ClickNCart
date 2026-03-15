@@ -1,6 +1,6 @@
 ## 🛒 ClickNCart
 
-ClickNCart is a modern**E‑Commerce Web Application** built with **React (Vite) and Redux Toolkit**. It provides a smooth shopping experience with product categories, cart management, search functionality, and a contact form powered by Formspree.
+ClickNCart is a modern **E‑Commerce Web Application** built with **React (Vite) and Redux Toolkit**. It provides a smooth shopping experience with product categories, cart management, search functionality, and a contact form powered by Formspree.
 
 
 
