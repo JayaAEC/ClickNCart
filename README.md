@@ -55,7 +55,7 @@ E-commerce/
 🔗 [Click here to watch the demo video](https://drive.google.com/file/d/1uB5nE1V7nOSpD3l42RRQGBA8M9RCe3B6/view?usp=drive_link)
 
 ## 🌐 Deployment
-This project is deployed on Netlify.
-👉 Live Demo
+  This project is deployed on Netlify.
+  - Live Demo: https://clickncart-e-commerce.netlify.app/
 
 
